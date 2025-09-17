@@ -1,2 +1,1 @@
-# Galeria_Diversos_II
-Galeria de quadros de Jomaro Cabrela Diversos II
+# Jomaro_Cabrela_Galeria_Diversos_I
